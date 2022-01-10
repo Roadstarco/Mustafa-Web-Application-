@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://myroadstar.org/</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/aboutus</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/faq</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/terms-conditions</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/drive</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/ride</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/service</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trips</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/post-trip</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/register</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/fleet/register</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/fleet/login</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/provider/login</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/provider/register</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/276</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/277</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/278</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/279</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/281</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/282</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/283</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/284</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/285</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/trip-detail/286</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/login</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/fleet/password/reset</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/provider/password/reset</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://myroadstar.org/password/reset</loc>
+  <lastmod>2021-07-22T18:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
