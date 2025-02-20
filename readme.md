@@ -1,4 +1,4 @@
-# Tranxit Request Features
+# Roadstar Request Features
 
 * Promocode
 * Wallet
